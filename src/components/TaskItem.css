@@ -1,0 +1,14 @@
+.strike{
+    text-decoration: line-through;
+}
+.task-container{
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-item{
+
+    font-family: "Roboto", sans-serif;
+}
